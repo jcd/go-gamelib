@@ -1,0 +1,9 @@
+TODO
+----
+
+* More features
+
+BUGS
+----
+
+*  using sched.AddInterval* makes the stuff crash 
