@@ -1,6 +1,6 @@
 # Go language - Game Library
 
-Go-gamelib is a game library the Go language. 
+Go-gamelib is a game library for the Go language (www.golang.org). 
 
 ## Installation
 
@@ -15,6 +15,11 @@ You need to a have a working GO installation (see www.golang.org)
 	
 	# Try the example game
 	./main -cmd 2
+
+## Dependencies
+
+* Go-SDL (http://github.com/banthar/Go-SDL)
+* Go-OpenGL (http://github.com/banthar/Go-OpenGL)
 
 ## Authors
 
