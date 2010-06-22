@@ -4,17 +4,17 @@ Go-gamelib is a game library the Go language.
 
 ## Installation
 
-   You need to a have a working GO installation (see www.golang.org)
+You need to a have a working GO installation (see www.golang.org)
 
-   # Checkout the repository
-   git clone git://github.com/jcd/go-gamelib.git
-
-   # Compile
-   cd go-gamelib
-   make
-
-   # Try the example game
-   ./main -cmd 2
+	# Checkout the repository
+	git clone git://github.com/jcd/go-gamelib.git
+	
+	# Compile
+	cd go-gamelib
+	make
+	
+	# Try the example game
+	./main -cmd 2
 
 ## Authors
 
